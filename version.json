@@ -1,0 +1,17 @@
+{
+  "version": "1.0.2",
+  "build": 2,
+  "releaseDate": "2026-10-17T10:29:55.866Z",
+  "mandatory": false,
+  "minVersion": "1.0.0",
+  "downloadUrl": "https://github.com/webdeveloperkanai/crm-customer-relationship-management-software/raw/main/deploy/setup.exe",
+  "portableUrl": "https://github.com/webdeveloperkanai/crm-customer-relationship-management-software/raw/main/deploy/portable-dCRM-CRMS.exe",
+  "notes": "Neon Cloud Sync, Direct Plan Activation, and Auto-Update Engine",
+  "changelog": [
+    "Integrated real-time Neon cloud sync engine with offline resilience",
+    "Instant cloud plan switching and Postgres database synchronization",
+    "Online plan activation gatekeeper with automatic redirection",
+    "Automated version update checker with mandatory update enforcement",
+    "Native Windows WebView2 desktop bridge optimizations"
+  ]
+}
