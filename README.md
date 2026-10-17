@@ -28,19 +28,9 @@ The `deploy` folder contains two production-ready editions:
 - If using **`setup.exe`**: Complete the 3-step installer wizard and check *"Launch dCR - CRMS now"*.
 - If using **`portable-dCRM-CRMS.exe`**: Double-click the file to open the software instantly.
 
-### Step 2: Deployment Mode Selection
-On first launch, choose the architecture that best fits your business model:
-1. **Offline Workstation Suite (Perpetual)**:
-   - Designed for businesses requiring 100% data confidentiality, zero ongoing recurring subscriptions, and full offline operation without needing continuous internet connectivity.
-   - Includes full access to every module and +2 years of software patches and security updates.
-2. **Online Cloud Subscription**:
-   - Designed for multi-branch organizations and mobile executives who need real-time multi-device cloud synchronization, automated cloud backups, and lifetime continuous updates.
-   - Flexible billing available: Monthly, Quarterly, Bi-Annual, or Annual.
-
-### Step 3: Verification & Activation
-- Submit your payment reference / UTR number along with your payment receipt screenshot.
-- Upon administrative verification, your activation code will be delivered to your registered email address.
-- Enter your 16-character license key (`DCRM-XXXX-XXXX-XXXX`) on the Activation screen to immediately unlock the software.
+### Step 2: Initial Setup & Workspace Configuration
+- On first launch, choose your preferred **Industry Preset** (General Trading, Retail & POS, Education, Hospitality, or Services) to configure relevant fields and workflows.
+- Set up your company profile, currency, and business preferences to begin managing your operations immediately.
 
 ---
 
@@ -126,31 +116,6 @@ Switch the workspace layout and active terminology with a single click:
 
 ---
 
-## 💳 Pricing & Commercial Plans
-
-### 🔹 Offline Workstation Edition
-- **Pricing:** **₹24,999** (One-Time Perpetual License per workstation).
-- **Includes:** 100% full access to all software modules (CRM, Billing, Inventory, Projects, HRMS, Education, Hospitality, Analytics).
-- **Security & Maintenance:** +2 Years of software patches, regulatory updates, and compliance updates included.
-- **Internet Requirement:** **Zero**. All records remain 100% local on your workstation.
-
-### 🔹 Online Cloud Subscription
-- **Monthly:** ₹499 / month
-- **Quarterly:** ₹1,299 / quarter *(Save ₹198)*
-- **Bi-Annual:** ₹2,499 / 6 months *(Save ₹495)*
-- **Annual:** ₹4,999 / year *(Save ₹989)*
-- **Includes:** Continuous cloud synchronization, multi-device access, automated remote snapshots, and lifetime free upgrades.
-
-### 🔹 Prorated Cloud Upgrade Guarantee
-If you start on the Offline Perpetual license and later choose to migrate to Online Cloud mode, your investment is automatically credited:
-- **Up to 3 Months in Offline mode** $\rightarrow$ **9 Months** of Online Cloud credited.
-- **3 to 6 Months in Offline mode** $\rightarrow$ **1 Year (12 Months)** of Online Cloud credited *(Promotional Upgrade Bonus)*.
-- **6 to 9 Months in Offline mode** $\rightarrow$ **3 Months** of Online Cloud credited.
-- **9 to 12 Months in Offline mode** $\rightarrow$ **1 Month** of Online Cloud credited.
-- **Over 1 Year in Offline mode** $\rightarrow$ **1 Month** courtesy transition credit.
-
----
-
 ## ⌨️ Productivity Shortcuts
 
 | Action | Shortcut |
@@ -174,7 +139,7 @@ If you start on the Offline Perpetual license and later choose to migrate to Onl
 
 ## 📞 Support, Assistance & Contact
 
-For licensing inquiries, invoice receipt verification, activation assistance, or enterprise customization:
+For technical assistance, feature inquiries, deployment guidance, or custom enterprise requirements:
 
 - **Developer & Publisher**: **DEV SEC IT**
 - **Official Portal**: [https://crms.devsecit.com](https://crms.devsecit.com)
