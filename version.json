@@ -4,8 +4,8 @@
   "releaseDate": "2026-10-17T10:29:55.866Z",
   "mandatory": false,
   "minVersion": "1.0.0",
-  "downloadUrl": "https://github.com/webdeveloperkanai/crm-customer-relationship-management-software/raw/main/deploy/setup.exe",
-  "portableUrl": "https://github.com/webdeveloperkanai/crm-customer-relationship-management-software/raw/main/deploy/portable-dCRM-CRMS.exe",
+  "downloadUrl": "https://github.com/dev-sec-it/dCRM-CRMS-hybrid-customer-relationship-management-system-/raw/refs/heads/master/setup.exe",
+  "portableUrl": "https://github.com/dev-sec-it/dCRM-CRMS-hybrid-customer-relationship-management-system-/raw/refs/heads/master/portable-dCRM-CRMS.exe",
   "notes": "Neon Cloud Sync, Direct Plan Activation, and Auto-Update Engine",
   "changelog": [
     "Integrated real-time Neon cloud sync engine with offline resilience",
