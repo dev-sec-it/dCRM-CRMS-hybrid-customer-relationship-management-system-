@@ -1,17 +1,18 @@
 {
-  "version": "1.0.2",
-  "build": 2,
-  "releaseDate": "2026-10-17T10:29:55.866Z",
+  "version": "1.0.8",
+  "build": 8,
+  "releaseDate": "2026-10-18T12:55:26.577Z",
   "mandatory": false,
   "minVersion": "1.0.0",
   "downloadUrl": "https://github.com/dev-sec-it/dCRM-CRMS-hybrid-customer-relationship-management-system-/raw/refs/heads/master/setup.exe",
   "portableUrl": "https://github.com/dev-sec-it/dCRM-CRMS-hybrid-customer-relationship-management-system-/raw/refs/heads/master/portable-dCRM-CRMS.exe",
-  "notes": "Neon Cloud Sync, Direct Plan Activation, and Auto-Update Engine",
+  "notes": "Sales Orders & Delivery Process Management (Delhivery & Shiprocket)",
   "changelog": [
-    "Integrated real-time Neon cloud sync engine with offline resilience",
-    "Instant cloud plan switching and Postgres database synchronization",
-    "Online plan activation gatekeeper with automatic redirection",
-    "Automated version update checker with mandatory update enforcement",
-    "Native Windows WebView2 desktop bridge optimizations"
+    "Added Sales Orders module with 9 statuses (Pending, Accepted, Verified, Not servicable, Hold, Cancelled, In transit, Delivered, Return)",
+    "Integrated Delhivery & Shiprocket carrier delivery engine with custom API key configuration",
+    "Real-time courier tracking auto-sync and event-to-status mapping",
+    "Bulk transit runner for batch AWB generation and order dispatch",
+    "Indian pincode serviceability and rate lookup calculator",
+    "Printable shipping waybill / label generator with high-contrast barcode"
   ]
 }
