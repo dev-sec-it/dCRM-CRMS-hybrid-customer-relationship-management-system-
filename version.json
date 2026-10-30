@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "build": 8,
-  "releaseDate": "2026-10-18T12:55:26.577Z",
+  "version": "1.0.9",
+  "build": 9,
+  "releaseDate": "2026-10-30T16:29:04.653Z",
   "mandatory": false,
   "minVersion": "1.0.0",
   "downloadUrl": "https://github.com/dev-sec-it/dCRM-CRMS-hybrid-customer-relationship-management-system-/raw/refs/heads/master/setup.exe",
